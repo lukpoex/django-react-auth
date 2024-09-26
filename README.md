@@ -12,7 +12,7 @@
 - Type the following command to clone project in same directory.
 
 ```bash
-git clone https://github.com/sushil-kamble/django-react-auth.git .
+git clone https://github.com/lukpoex/django-react-auth.git .
 ```
 
 ## Backend
